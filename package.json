@@ -1,0 +1,19 @@
+{
+  "name": "assignment1_jacquilinejameson",
+  "version": "1.0.0",
+  "description": "Assignment1",
+  "main": "gameConsole.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "MIT"
+  },
+  "author": "Jacquiline Jameson",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
